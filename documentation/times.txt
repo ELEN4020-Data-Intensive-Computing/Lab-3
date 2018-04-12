@@ -1,0 +1,9 @@
+Algorithm A input 1 timing: 62s
+Algorithm A input 2 timing: N/A
+Algorithm A input 2 timing: N/A
+
+Algorithm B input 1 timing: 16s
+Algorithm B input 2 timing: N/A
+Algorithm B input 3 timing: N/A
+
+N/A: not available. Running the program for this input results in a never ending  run
